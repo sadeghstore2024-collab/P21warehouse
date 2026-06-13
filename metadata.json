@@ -1,0 +1,5 @@
+{
+  "name": "P21 Warehouse & HSE Core",
+  "description": "Advanced industrial warehouse management system with integrated HSE tracking, digital signatures, and AI-powered analytics.",
+  "requestFramePermissions": ["camera"]
+}
